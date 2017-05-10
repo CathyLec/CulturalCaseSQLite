@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cultural Case SQLite</string>
+    <string name="listado">Listado</string>
+    <string name="buscar">Buscar</string>
+</resources>
